@@ -1,8 +1,8 @@
 # Babel Demo
 
 ```console
-$ git clone xxx
-$ cd xxx
+$ git clone git@github.com:ginpei/Babel-Demo.git
+$ cd Babel-Demo
 $ npm install
 $ npm run build
 $ open ./public/index.html
